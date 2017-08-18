@@ -1,0 +1,4 @@
+npm install
+node app.js
+
+´ò¿ª http://localhost:8888 ¼´¿É
